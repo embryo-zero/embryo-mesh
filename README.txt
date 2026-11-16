@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Mesh
+
+**Embryo Mesh** is Embryo-Zero's fork of [Gmsh](https://gitlab.onelab.info/gmsh/gmsh), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 This is Gmsh, an automatic three-dimensional finite element mesh generator with
 built-in pre- and post-processing facilities.
 
